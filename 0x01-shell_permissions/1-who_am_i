@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami master
+whoami /root
