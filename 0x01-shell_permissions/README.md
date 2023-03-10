@@ -1,1 +1,1 @@
-s script that sets the permissions to the file
+a script that sets the mode of the file
