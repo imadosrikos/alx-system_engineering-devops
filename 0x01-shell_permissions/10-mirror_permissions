@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rwx-rwx-rw=./hello ./olleh
+chmod --reference=./olleh ./hello
