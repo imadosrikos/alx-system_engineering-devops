@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -f .js
+find -delete .js
