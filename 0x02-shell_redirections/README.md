@@ -6,3 +6,4 @@ display the last 10 lines
 display the first ones actually
 a script that displays the third line only
 it is a good file that cuts iron without making a noise
+Save current state of directory
