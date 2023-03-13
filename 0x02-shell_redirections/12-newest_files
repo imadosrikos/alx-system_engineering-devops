@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -ltu . |head -10
+ls -ltu . | head -n10
+
