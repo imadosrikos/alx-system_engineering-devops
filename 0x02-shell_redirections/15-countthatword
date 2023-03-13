@@ -1,2 +1,2 @@
 #!/bin/bash
-sort "bin" /etc/passwd | wc -l
+sort "bin" | wc -l /etc/passwd
