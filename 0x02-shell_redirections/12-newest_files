@@ -1,2 +1,2 @@
-#1/bin/bash
-sort -M ./
+#!/bin/bash
+ls -l; .
