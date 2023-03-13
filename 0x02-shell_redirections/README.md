@@ -10,3 +10,4 @@ Save current state of directory
 a script that duplicates the last line of the file
 a script that deletes files
 Don't just count your directories, make your directories count
+being unique is better than bein perfect
