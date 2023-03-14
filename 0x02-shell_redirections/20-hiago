@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 2-5
+echo "Chicago" | tr -C c
