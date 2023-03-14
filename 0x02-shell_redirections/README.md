@@ -18,3 +18,4 @@ display all lines of the file
 replace characters
 wihtout c
 script that reverse its input
+script that displays all users
