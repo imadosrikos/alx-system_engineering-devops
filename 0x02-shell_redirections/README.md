@@ -15,3 +15,4 @@ Display lines containing the pattern root from the file
 display the number of lines
 Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
 display all lines of the file 
+replace characters
