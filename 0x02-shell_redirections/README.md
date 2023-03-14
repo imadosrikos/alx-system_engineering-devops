@@ -17,3 +17,4 @@ Display all the lines in the file /etc/passwd that do not contain the pattern â€
 display all lines of the file 
 replace characters
 wihtout c
+script that reverse its input
