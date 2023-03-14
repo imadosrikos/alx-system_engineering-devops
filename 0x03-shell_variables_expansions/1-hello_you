@@ -1,2 +1,2 @@
 #!/bin/bash
-alias Imad="echo hello Imad"
+alias MyUser="echo MyUser"
