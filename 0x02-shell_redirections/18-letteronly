@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -wl /etc/ssh/sshd_config
+less /etc/ssh/sshd_config
