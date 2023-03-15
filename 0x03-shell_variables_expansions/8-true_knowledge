@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "128" | printenv "TRUEKNOWLEDGE" | \n
+printf [-v TRUEKNOWLEDGE] [%c] [128] | \n
