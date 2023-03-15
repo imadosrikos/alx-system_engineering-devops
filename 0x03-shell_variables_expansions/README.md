@@ -15,3 +15,4 @@ a script that prints the result of the addition of 128 with the value stored in 
  2 files changed, 4 insertions(+)
  mode change 100644 => 100755 0x03-shell_variables_expansions/8-true_knowledge
 a script that prints the results of deviding
+Love is anterior to life
